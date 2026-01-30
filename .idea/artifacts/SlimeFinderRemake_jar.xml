@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="SlimeFinderRemake:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SlimeFinderRemake_jar</output-path>
+    <root id="root">
+      <element id="archive" name="SlimeFinderRemake.jar">
+        <element id="module-output" name="SlimeFinderRemake" />
+      </element>
+    </root>
+  </artifact>
+</component>
